@@ -29,9 +29,6 @@ Easily save, visit, and manage your favorite websites in one place — built wit
 
 ---
 
-*(Make sure the screenshot path is correct in your repo.)*  
-
----
 
 ## ⚙️ How It Works  
 
